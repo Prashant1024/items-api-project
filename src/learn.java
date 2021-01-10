@@ -66,7 +66,7 @@ class learn {
         pair obj1 = new pair(1,9);
         pair obj2 = new pair(2,4);
         pair obj3 = new pair(4,7);
-        pair obj4 = new pair(6,9);
+        pair obj4 = new pair(6,10);
         list.add(obj);
         list.add(obj1);
         list.add(obj2);
