@@ -16,7 +16,7 @@ public class first {
             }
             weight.put(num,sum);
         }
-
+        System.out.println("new things added");
 
 
     }
